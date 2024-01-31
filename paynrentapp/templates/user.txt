@@ -1,0 +1,29 @@
+ <div id="listvehicle">
+
+                <div class="smallbox" style="margin-left:20px;display: flex;flex-direction: column;">
+                    <div class="imgcenter"><img src="/static/Baleno_QiawEUE.jpg" width="200px">
+                        <div class="smallboxcontentalign smallboxfont">
+                            TATA
+                        </div>
+                        <div class="smallboxcontentalign-1">
+                            <b>Punch</b>
+                        </div>
+                        <div class="smallboxcontentalign-2" style="display:flex;flex-direction: row;">
+                            <img src="/static/iconDiesel.svg" width="15px"><span style="margin-left: 5px;">Diesel</span>
+                            <img src="/static/iconTransmission.svg" width="15px" style="margin-left: 12px;"><span><b>Manual</b></span>
+                            <img src="/static/iconSeat.svg" width="15px" style="margin-left: 12px;"><span>7 Seats</span>
+                        </div>
+                        <div class="smallboxcontentalign smallboxfont-1" style="display:flex;">
+                            <div>2,345</div>
+                                <div class="button_style">Book</div>
+                                  
+                        </div>
+                        <div>
+                           <div>288 kms | Prices <b>exclude</b> fuel cost</div>
+                        </div>
+                    </div>
+              </div>
+      </div>
+      
+  </body>
+</html>
